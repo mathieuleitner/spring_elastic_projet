@@ -1,0 +1,8 @@
+{"index":{"_index": "beers","_type":"beer","_id":1}}
+{"id":"1","name":"heineken","description":"Elle n'est pas terroche...","categorie":"blonde"}
+{"index":{"_index": "beers","_type":"beer","_id":2}}
+{"id":"2","name":"guiness","description":"La meilleure","categorie":"ambre"}
+{"index":{"_index": "beers","_type":"beer","_id":3}}
+{"id":"3","name":"Hoegarden","description":"Bière très légère et désaltérante, indispensable après une randonné en montagne","categorie":"blanche"}
+{"index":{"_index": "beers","_type":"beer","_id":4}}
+{"id":"4","name":"heineken","description":"Elle n'est toujours pas terroche...","categorie":"toujours blonde"}

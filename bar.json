@@ -1,0 +1,10 @@
+{"index":{"_index": "bars","_type":"bar","_id":1}}
+{"id":"1","name":"L'Ecurie","description":"The place to be","capacite":350}
+{"index":{"_index": "bars","_type":"bar","_id":2}}
+{"id":"2","name":"Yvette de Marseille","description":"Le meilleur afterwork genevois","capacite":200}
+{"index":{"_index": "bars","_type":"bar","_id":3}}
+{"id":"3","name":"La Makhno","description":"Entre punk, bourgeois et rappeur","capacie":100}
+{"index":{"_index": "bars","_type":"bar","_id":4}}
+{"id":"4","name":"Le Marcel","description":"Avec terrain de pétanque couvert","capacite":50}
+{"index":{"_index": "bars","_type":"bar","_id":5}}
+{"id":"5","name":"Bottle Brtohers","description":"Pour les amateurs de malt et houblon","capacite":75}
