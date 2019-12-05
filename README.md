@@ -8,20 +8,17 @@ Pour notre projet, les modèles Bar et Beer sont alimenté par Elasticsearch tan
 
 ### 1) Dans le terminal lancer à la suite ces 2 commandes
 
-- cd beer/
 - ./gradlew bootRun
 
 Ces commandes permettent de lanser un serveur sur le port 8030 et remplir une database H2 avec les données renseignées dans /ressource/data.sql
 
 ### 2) Dans un nouveau terminal, lancer le serveur Elastic
 
-- cd beer/
 - cd elastisearch6.2.4
 - ./bin/elasticsearch.bat
 
 ### 3) Dans un nouveau terminal, remplir le serveur Elastic grâce à Bulk
 
-- cd beer/
 - curl -XPUT localhost:9200/\_bulk -H "Content-Type: application/json"--data-binary @beer.json
 - curl -XPUT localhost:9200/\_bulk -H "Content-Type: application/json" --data-binary @bar.json
 
